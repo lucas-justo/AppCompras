@@ -3,4 +3,8 @@
     <string name="action_settings">Settings</string>
     <string name="txtCamposObrigatorios">Preencha todos campos obrigatórios.</string>
     <string name="txtAtencao">Atenção!</string>
+    <string name="txtTitulo">Título da Anotação</string>
+    <string name="txtSalvar">SALVAR</string>
+    <string name="txtCorpo">Corpo da Anotação</string>
+    <string name="txtMinhasanotacoes">Minhas Anotações:</string>
 </resources>

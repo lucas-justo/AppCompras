@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppLista</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtCamposObrigatorios">Fill in all required fields.</string>
+    <string name="txtAtt">Attention!</string>
+    <string name="txtTitle">Title</string>
+    <string name="txtSave">SAVE</string>
+    <string name="txtBody">Body</string>
+    <string name="txtMyNote">My Notes:</string>
+</resources>
